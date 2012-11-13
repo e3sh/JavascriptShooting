@@ -1,5 +1,5 @@
-Javascirpt/HTML Canvas —‰ð‚Ìˆ×‚ÌKì
+ï»¿Javascirpt/HTML Canvas ç†è§£ã®ç‚ºã®ç¿’ä½œ
 
-‘€ìF
-ƒ}ƒEƒX‚ÅˆÚ“®
-¶ƒ{ƒ^ƒ“FƒVƒ‡ƒbƒg@’†ƒ{ƒ^ƒ“Fƒ{ƒ€
+æ“ä½œï¼š
+ãƒžã‚¦ã‚¹ã§ç§»å‹•
+å·¦ãƒœã‚¿ãƒ³ï¼šã‚·ãƒ§ãƒƒãƒˆã€€ä¸­ãƒœã‚¿ãƒ³ï¼šãƒœãƒ 
