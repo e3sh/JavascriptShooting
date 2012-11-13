@@ -1,0 +1,29 @@
+@charset "Shift_JIS";
+
+* {
+	margin:0; padding:0; 	/*全要素のマージン・パディングをリセット*/
+} 
+
+canvas
+{
+	width : 420px;
+	height :480px;
+	top :0px ;
+	left:0px ;
+	position : absolute;
+}
+
+#Layer0
+{
+	z-index: 0;
+}
+
+#Layer1
+{
+	z-index: 1;
+}
+
+#Layer2
+{
+	z-index: 2;
+}
